@@ -3,9 +3,10 @@ kind: Component
 metadata: 
   name: meu-servico 
   annotations: 
-    backstage.io/techdocs-ref: dir:. 
+    backstage.io/techdocs-ref: url:https://github.com/Matheus-Melo-dos-Santos/backstage/blob/main/docs/index.md
 spec: 
   type: service 
   lifecycle: production 
   owner: group:exemplo_dono 
+
   system: systema_desejado 
