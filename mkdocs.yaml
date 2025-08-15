@@ -1,0 +1,6 @@
+site_name: teste_mkdocs
+site_description: Tutorial do backstage para a TechDocs
+plugins:
+  - techdocs-core
+nav:
+  - Home: index.md
