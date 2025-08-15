@@ -3,7 +3,7 @@ kind: Component
 metadata: 
   name: URL_exemplo
   annotations: 
-    backstage.io/techdocs-ref: url:https://github.com/Matheus-Melo-dos-Santos/backstage/tree/main
+    backstage.io/techdocs-ref: url:https://github.com/Matheus-Melo-dos-Santos/backstage/tree/main/docs
 spec: 
   type: service 
   lifecycle: production 
